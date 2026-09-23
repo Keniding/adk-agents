@@ -7,5 +7,6 @@ requires-python = ">=3.14"
 dependencies = [
     "google-adk>=2.9.2",
     "protobuf>=7.36.2",
+    "pydantic>=2.13.5",
     "tzdata>=2026.4",
 ]
